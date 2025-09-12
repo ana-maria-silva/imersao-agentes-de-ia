@@ -8,4 +8,4 @@
 
 ### Aula 03: Orquestração do agente com LanGraph
 
-#### Tecnologias e Ferramentas: Google Gemini, Google Colab, Pyhton, Langchain, RAD, LanGraph
+#### Tecnologias e ferramentas: Google Gemini, Google Colab, Pyhton, Langchain, RAG, LanGraph
